@@ -246,7 +246,7 @@ public class Registration extends javax.swing.JFrame {
                     
                     if(rs==1)
                     {
-                        JOptionPane.showMessageDialog(null,"Registration Successfull");
+                        JOptionPane.showMessageDialog(null,"Registration is Successfully done");
                         this.dispose();
                         Login d=new Login();
                         d.setVisible(true);                    }
